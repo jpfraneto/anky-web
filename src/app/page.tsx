@@ -1,5 +1,4 @@
-import Image from "next/image";
-
+"use client";
 export default function Home() {
   return (
     <div className="w-screen h-screen bg-black text-purple-600">
